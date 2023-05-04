@@ -1,0 +1,5 @@
+db:
+  host: 'localhost'
+  username: 'scott'
+  password: 'scott'
+  synchronize: false

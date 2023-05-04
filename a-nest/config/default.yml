@@ -1,0 +1,7 @@
+server:
+  port: 3095
+
+db:
+  type: 'mysql'
+  port: 3306
+  database: 'sleact'
